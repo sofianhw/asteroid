@@ -1,3 +1,4 @@
 settings.*.json
 METEOR-PASSWORD
 packages
+.DS_Store
